@@ -6,10 +6,10 @@ This is a ToDo list web application built with Express.js and PostgreSQL.
 
 
 ## Main Features
-1. ## Web Application with Express.js:
+1.  Web Application with Express.js:
  The app is built using the Express.js framework, which is a popular web framework for Node.js. Express.js simplifies the process of building web applications and APIs.
 
-1. ## PostgreSQL Database Integration: 
+1.  PostgreSQL Database Integration: 
 The app uses a PostgreSQL database to store ToDo list items. It establishes a connection to the database and performs basic CRUD (Create, Read, Update, Delete) operations on the items table.
 
 ## Installation
