@@ -74,8 +74,8 @@ Replace `YOUR_DATABASE_NAME` and `YOUR_PASSWORD` with your PostgreSQL database n
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="Scrennshots/Screenshots1.png" width="300" alt="Screenshot 1">
-       <img src="Scrennshots/Screenshots2.png" width="300" alt="Screenshot 2">
+        <img src="Scrennshots/Screenshot1.png" width="300" alt="Screenshot 1">
+       <img src="Scrennshots/Screenshot2.png" width="300" alt="Screenshot 2">
        
 </div>
 
