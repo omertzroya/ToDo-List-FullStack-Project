@@ -37,7 +37,7 @@ The app uses a PostgreSQL database to store ToDo list items. It establishes a co
 To run the application, use the following command:
 
 ```bash
-npm install 
+nodemon index.js
 ```
 
 Visit `http://localhost:3000` in your web browser to access the ToDo list application.
